@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 
 # <strong>Hi there 👋, I'm Louis</strong>
 
-I am a 7th semesters student with strong interests in Natural Language Processing (NLP), Computer Vision (CV), Artificial Intelligence (AI), Web Development, and Android Development.
-
-I have a passion for continuous learning, especially from great people around me, and I always strive to improve my skills to stay relevant in today’s fast-changing era, particularly in the field of AI.
-
-I also enjoy connecting with others to share knowledge, exchange ideas, and grow together in this AI-driven world.
+Driven by a deep curiosity for Artificial Intelligence, I am currently immersing myself in the world of Deep Learning. My learning journey is focused on mastering Computer Vision and Natural Language Processing, as I believe these fields are the key to building the next generation of intelligent systems.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
