@@ -1,33 +1,15 @@
-<!--
-**LouisVoterra/LouisVoterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # <strong>Hi there 👋, I'm Louis</strong>
 
 Driven by a deep curiosity for Artificial Intelligence, I am currently immersing myself in the world of Deep Learning. My learning journey is focused on mastering Computer Vision and Natural Language Processing, as I believe these fields are the key to building the next generation of intelligent systems.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LouisVoterra&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-
 ### 🧰 Tech Stack
 ---
-
 
 <table class="left-align">
   <tr>
@@ -143,20 +125,22 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
 
 ### <strong>Let's connect!</strong>
 
+<p>
 <a href="https://www.instagram.com/louisdewavt/">
-  <img align="left" alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" />
 </a>
+</p>
 
+<br/>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=LouisVoterra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=LouisVoterra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LouisVoterra&show_icons=true" alt="LouisVoterra's GitHub stats" />
 </picture>
-
