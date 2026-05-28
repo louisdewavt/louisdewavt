@@ -3,7 +3,7 @@
 Driven by a deep curiosity for Artificial Intelligence, I am currently immersing myself in the world of Deep Learning. My learning journey is focused on mastering Computer Vision and Natural Language Processing, as I believe these fields are the key to building the next generation of intelligent systems.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LouisVoterra&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=louisdewavt&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
