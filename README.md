@@ -135,12 +135,12 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LouisVoterra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=louisdewavt&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LouisVoterra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=louisdewavt&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=LouisVoterra&show_icons=true" alt="LouisVoterra's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=louisdewavt&show_icons=true" alt="louisdewavt's GitHub stats" />
 </picture>
