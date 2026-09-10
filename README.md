@@ -125,30 +125,19 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
 ---
 
 <p>
-<a href="https://www.instagram.com/louisdewavt/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" />
-</a>
-</p> &nbsp;
-<p> 
-<a href="https://www.linkedin.com/in/louis-dewa-voterra-5a993427a/">
-  <img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" />
-</a>
+  <a href="https://www.instagram.com/louisdewavt/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" /></a><a href="https://www.linkedin.com/in/louis-dewa-voterra-5a993427a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" /></a>
 </p>
-
-<br/>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=louisdewavt&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=louisdewavt&show_icons=true&theme=dark"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=louisdewavt&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  <img
+    alt="Statistik GitHub Louis"
+    src="https://github-readme-stats.vercel.app/api?username=louisdewavt&show_icons=true"
   />
-  
 </picture>
-
 ### 📊 Github Stats
 ---
 
