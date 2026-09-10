@@ -1,5 +1,7 @@
 # <strong>Hi there 👋, I'm Louis</strong>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Exploring+Artificial+Intelligence;Learning+Computer+Vision+and+NLP;Building+Projects+and+Learning+by+Doing)
+
 Driven by a deep curiosity for Artificial Intelligence, I am currently immersing myself in the world of Deep Learning. My learning journey is focused on mastering Computer Vision and Natural Language Processing, as I believe these fields are the key to building the next generation of intelligent systems.
 
 <p align="left">
