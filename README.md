@@ -136,7 +136,7 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
 
 ![Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=louisdewavt&theme=github_dark)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=louisdewavt&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=louisdewavt&theme=github-dark-blue&hide_border=true)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=louisdewavt&theme=github_dark)
 
 <h3>Github trophies</h3>
