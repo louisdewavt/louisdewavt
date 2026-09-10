@@ -135,3 +135,5 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
 ![louisdewavt's GitHub Stats](https://readme-stats-github.pages.dev/api?username=louisdewavt&theme=dark)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=louisdewavt&theme=dark)
 
+![Language Statistics](https://github.com/louisdewavt/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![GitHub Overview](https://github.com/louisdewavt/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
