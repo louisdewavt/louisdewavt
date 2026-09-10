@@ -6,8 +6,6 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
   <img src="https://komarev.com/ghpvc/?username=louisdewavt&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
 ### 🧰 Tech Stack
 ---
 
@@ -142,5 +140,10 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
     srcset="https://github-readme-stats.vercel.app/api?username=louisdewavt&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=louisdewavt&show_icons=true" alt="louisdewavt's GitHub stats" />
+  
 </picture>
+
+### 📊 Github Stats
+---
+
+![louisdewavt's GitHub Stats](https://readme-stats-github.pages.dev/api?username=louisdewavt&theme=dark)
