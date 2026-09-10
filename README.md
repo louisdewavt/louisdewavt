@@ -136,3 +136,16 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=louisdewavt&theme=github_dark)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=louisdewavt&theme=github_dark)
+
+<h3>Github trophies</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/louisdewavt/louisdewavt/output/github-snake-dark.svg"
+  />
+  <img
+    alt="Snake animation of my GitHub contributions"
+    src="https://raw.githubusercontent.com/louisdewavt/louisdewavt/output/github-snake.svg"
+  />
+</picture>
