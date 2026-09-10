@@ -132,8 +132,7 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
 ### 📊 Github Stats
 ---
 
-![louisdewavt's GitHub Stats](https://readme-stats-github.pages.dev/api?username=louisdewavt&theme=dark)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=louisdewavt&theme=dark)
+![Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=louisdewavt&theme=github_dark)
 
-![Language Statistics](https://github.com/louisdewavt/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![GitHub Overview](https://github.com/louisdewavt/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=louisdewavt&theme=github_dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=louisdewavt&theme=github_dark)
