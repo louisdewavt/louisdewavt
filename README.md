@@ -128,16 +128,7 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
   <a href="https://www.instagram.com/louisdewavt/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" /></a><a href="https://www.linkedin.com/in/louis-dewa-voterra-5a993427a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" /></a>
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=louisdewavt&show_icons=true&theme=dark"
-  />
-  <img
-    alt="Statistik GitHub Louis"
-    src="https://github-readme-stats.vercel.app/api?username=louisdewavt&show_icons=true"
-  />
-</picture>
+
 ### 📊 Github Stats
 ---
 
