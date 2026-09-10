@@ -128,7 +128,7 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
 <a href="https://www.instagram.com/louisdewavt/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" />
 </a>
-</p> <br>
+</p> &nbsp;
 <p> 
 <a href="https://www.linkedin.com/in/louis-dewa-voterra-5a993427a/">
   <img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" />
