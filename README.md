@@ -122,10 +122,16 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
 ---
 
 ### <strong>Let's connect!</strong>
+---
 
 <p>
 <a href="https://www.instagram.com/louisdewavt/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" />
+</a>
+</p>
+<p>
+<a href="https://www.linkedin.com/in/louis-dewa-voterra-5a993427a/">
+  <img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" />
 </a>
 </p>
 
@@ -148,4 +154,4 @@ Driven by a deep curiosity for Artificial Intelligence, I am currently immersing
 
 ![louisdewavt's GitHub Stats](https://readme-stats-github.pages.dev/api?username=louisdewavt&theme=dark)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=louisdewavt&theme=dark)
-![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=louisdewavt&repo=readme-stats-github&theme=dark)
+
